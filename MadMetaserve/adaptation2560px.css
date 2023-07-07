@@ -1,0 +1,86 @@
+@media (max-width : 2560px){
+	.container{
+		width: 2560px;
+		margin: auto;
+	}
+
+
+	.header-btn{
+		margin: -55px 0 0 1400px;
+		width: 322px;
+		height: 60px;
+	}
+
+	.main-content{
+		margin: 0 0 0 500px;
+	}
+
+	.welcome-div{
+		margin: 292px 0 0 600px;
+	}
+
+	.first-block{
+		margin: 110px 0 0 800px;
+	}
+
+	.second-block{
+		margin: 160px 0 0 0px;
+	}
+
+	.third-block{
+		margin: 46px 0 0 0px;
+	}
+
+	.second-part{
+		margin: 0 0 0 220px;
+	}
+
+	.third-part{
+		margin: 0 0 0 220px;
+	}
+
+	.explanation-pager-div{
+		margin: 0 0 0 350px;
+	}
+
+	.explanation-block-one{
+		margin: 0 0 0 300px;
+	}
+
+	.explanation-block-two{
+		margin: 0 0 0 300px;
+	}
+
+	.explanation-block-three{
+		margin: -50px 0 0 1050px;
+	}
+
+	.explanation-block-four{
+		margin: -50px 0 0 400px;
+	}
+
+	.partners-div{
+		margin: 276px 0 0 500px;
+	}
+
+	.team-div{
+		margin: 0 0 0 245px;
+	}
+
+	.autor-text{
+		font-weight: 300;
+		font-size: 16px;
+		line-height: 15px;
+		/* identical to box height */
+
+		text-align: center;
+		letter-spacing: 1.05px;
+		text-transform: uppercase;
+
+		color: #FFFFFF;
+
+		mix-blend-mode: normal;
+		opacity: 0.5;
+		margin: 103px 0 0 -600px;
+	}
+}
